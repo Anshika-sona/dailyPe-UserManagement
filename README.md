@@ -1,8 +1,5 @@
 
-```
 # Spring Boot Application
-
-
 
 ## Overview
 This is a Spring Boot application for managing users and managers. It provides RESTful endpoints to perform CRUD operations on users and retrieve users based on manager_id.
@@ -16,31 +13,31 @@ This is a Spring Boot application for managing users and managers. It provides R
 ## Setup
 1. Clone the repository:
 
-
-## Setup
-1. Clone the repository:
-
-```
 git clone <repository-url>
-```
+
+css
+Copy code
 
 2. Navigate to the project directory:
 
-```
 cd spring-boot-application
-```
+
+arduino
+Copy code
 
 3. Build the project using Maven:
 
-```
 mvn clean install
-```
+
+markdown
+Copy code
 
 4. Run the application:
 
-```
 mvn spring-boot:run
-```
+
+markdown
+Copy code
 
 ## Usage
 Once the application is running, you can access the following endpoints:
@@ -58,4 +55,3 @@ The application uses an H2 in-memory database for development. You can access th
 - Spring Boot Starter Data JPA
 - H2 Database
 - Spring Boot Starter Test
-
