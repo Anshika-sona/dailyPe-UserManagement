@@ -2,6 +2,8 @@
 ```
 # Spring Boot Application
 
+
+
 ## Overview
 This is a Spring Boot application for managing users and managers. It provides RESTful endpoints to perform CRUD operations on users and retrieve users based on manager_id.
 
@@ -10,6 +12,10 @@ This is a Spring Boot application for managing users and managers. It provides R
 - Maven
 - Spring Boot 2.5.3
 - H2 Database (for development)
+
+## Setup
+1. Clone the repository:
+
 
 ## Setup
 1. Clone the repository:
